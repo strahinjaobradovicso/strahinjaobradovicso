@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Strahinja!
 
-Altough I don't drink :coffee: often and I'm not crazy about the :new_moon: theme,\
+Although I don't drink :coffee: often and I'm not crazy about the :new_moon: theme,\
 I still feel like a proper software developer. 🚀
 
 Welcome to my creative corner! :seedling:
@@ -11,11 +11,10 @@ But most importantly, I share it all with you. :roller_coaster:
 
 - I'm currently working on my own Bidding App (stay tuned). 
 
-Fun facts:
+Random facts:
 - I'm a car enthusiast
 - I love snow
-- I like to work in the morning
-- I enjoy melted chocolate
+- I enjoy chocolate
 
  :mailbox_with_mail:
  I just wanted to say a big thank you to everyone who inspired me or taught me something!
