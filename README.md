@@ -9,13 +9,6 @@ Welcome to my creative corner! :seedling:
 This is where I turn my ideas into code, make mistakes and improve.\
 But most importantly, I share it all with you. :roller_coaster:
 
-- I'm currently working on my own Bidding App (stay tuned). 
-
-Random facts:
-- I'm a car enthusiast
-- I love snow
-- I enjoy chocolate
-
  :mailbox_with_mail:
  I just wanted to say a big thank you to everyone who inspired me or taught me something!
 
